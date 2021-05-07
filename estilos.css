@@ -1,0 +1,19 @@
+.container .row .col h3 {
+font-family: 'Bebas Neue', cursive;
+margin-left: 0.1cm;
+margin-right: 0.1cm; 
+margin-top: 0.1cm; 
+margin-bottom: 0.2cm; 
+text-align: center;
+color: rgb(201, 255, 196);
+}
+
+.container .row .col p {
+text-align: justify; 
+margin-left: 0.1cm; 
+margin-right: 0.1cm; 
+margin-top: 0.1cm;
+font-family: 'Itim', cursive;
+text-align: justify;
+color: beige;
+}
